@@ -1,1 +1,4 @@
+ABSTRACT
+
+A digital thermometer; having an thermometer body comprises a processing unit serves to integrate the signals of the digital thermometer and sets some operations; the processing unit calculating temperature from the heating sensing unit and then transfers temperature signals; before a predetermined measured time, if a thermal balance has been achieved, the processing unit will conduct the backlight plate to emit light so as to alert the user that the measurement will complete; a heating sensing unit for sensing temperatures of an object to be measured; a display unit for receiving electronic signals from the heating sensing unit so as to display the measured temperature; and a backlight plate for receiving signals from the processing unit and emitting light to illuminate the display unit.
 
